@@ -1,0 +1,3 @@
+AI ethics studies the moral issues raised by artificial intelligence. Major concerns include bias in training data leading to unfair decisions, lack of transparency in how models make decisions, privacy of personal data and the impact of automation on jobs.
+
+Responsible AI practices include using diverse and representative data, making models explainable, protecting user privacy and keeping humans in the loop for critical decisions.

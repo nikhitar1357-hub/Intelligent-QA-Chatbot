@@ -1,0 +1,3 @@
+Data science is an interdisciplinary field that uses statistics, programming and domain knowledge to extract useful insights from data. A typical data science workflow includes data collection, data cleaning, exploratory data analysis, model building, evaluation and deployment.
+
+Data cleaning often takes the largest share of a project because real-world data contains missing values, duplicates and errors. Visualization tools such as Matplotlib and Seaborn help data scientists understand patterns before modelling.

@@ -1,0 +1,3 @@
+Evaluation metrics measure how well a machine learning model performs. Accuracy is the fraction of correct predictions. Precision is the fraction of predicted positives that are truly positive, and recall is the fraction of actual positives that the model finds.
+
+The F1 score is the harmonic mean of precision and recall and is useful when classes are imbalanced. For regression problems, common metrics are mean squared error and R-squared.

@@ -1,0 +1,3 @@
+Unsupervised learning is a type of machine learning that finds hidden patterns in data without labelled outputs. The algorithm explores the structure of the data on its own.
+
+The main unsupervised tasks are clustering, which groups similar data points together, and dimensionality reduction, which compresses data while keeping important information. K-means and hierarchical clustering are popular clustering algorithms, while Principal Component Analysis (PCA) is widely used for dimensionality reduction.

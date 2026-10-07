@@ -1,0 +1,3 @@
+Artificial Intelligence (AI) is the branch of computer science that builds machines capable of performing tasks that normally require human intelligence. These tasks include learning from experience, reasoning, perceiving the environment, understanding language and making decisions.
+
+The field was formally founded at the Dartmouth Conference in 1956, where John McCarthy introduced the term artificial intelligence. AI systems are commonly divided into narrow AI, which is designed for one specific task, and general AI, which would match human ability across many tasks. All AI systems in use today are narrow AI.

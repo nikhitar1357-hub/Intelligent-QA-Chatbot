@@ -1,0 +1,3 @@
+A decision tree is a supervised learning model that makes predictions by asking a series of yes or no questions about the features, forming a tree-like structure. Each internal node tests a feature, each branch represents an outcome and each leaf gives the final prediction.
+
+A random forest is an ensemble method that builds many decision trees on random subsets of data and features and combines their votes. This reduces overfitting and usually gives better accuracy than a single decision tree.

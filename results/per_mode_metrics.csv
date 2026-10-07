@@ -1,0 +1,6 @@
+Mode,Precision,Recall,F1,Support
+Dialogue,1.0,1.0,1.0,5
+Knowledge QA,1.0,1.0,1.0,9
+IR QA,1.0,1.0,1.0,10
+Fallback,1.0,1.0,1.0,4
+Macro average,1.0,1.0,1.0,28

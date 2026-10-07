@@ -1,0 +1,3 @@
+Computer vision is the field of AI that trains computers to interpret and understand visual information from images and videos. Typical tasks are image classification, object detection, image segmentation and face recognition.
+
+Convolutional Neural Networks (CNNs) are the most widely used models in computer vision. They apply small filters over an image to detect local patterns such as edges and textures. Applications include self-driving cars, medical image analysis, surveillance and quality inspection in factories.

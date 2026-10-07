@@ -1,0 +1,29 @@
+id,question,expected_mode,expected_source,answer_keywords
+1,Hello there,Dialogue,,hey|hello|hi|help|ready
+2,Good morning,Dialogue,,hey|hello|hi|help|ready
+3,How are you?,Dialogue,,great|doing|smoothly
+4,Thank you so much,Dialogue,,welcome|happy
+5,Bye,Dialogue,,bye|goodbye
+6,Who invented Python?,Knowledge QA,Python,guido
+7,What is the capital of Karnataka?,Knowledge QA,Karnataka,bengaluru
+8,Which language is spoken in Karnataka?,Knowledge QA,Karnataka,kannada
+9,Who is the father of AI?,Knowledge QA,AI,mccarthy
+10,What is the full form of GATE?,Knowledge QA,General Education,graduate aptitude
+11,Which library is used for plotting?,Knowledge QA,Python,matplotlib
+12,What is overfitting?,Knowledge QA,ML,memorises|noise
+13,What is the time complexity of binary search?,Knowledge QA,Computer Science,log n
+14,What is the highest peak in Karnataka?,Knowledge QA,Karnataka,mullayanagiri
+15,What is machine learning?,IR QA,02_machine_learning,learn
+16,What is a neural network?,IR QA,04_neural_networks,neural|neuron
+17,What does NLP stand for and what tasks does it cover?,IR QA,05_natural_language_processing,language
+18,What are convolutional networks used for in vision?,IR QA,06_computer_vision,convolution|image|visual
+19,What is deep learning?,IR QA,03_deep_learning,hidden layers|neural
+20,What is a random forest?,IR QA,13_decision_trees_and_random_forests,ensemble|trees
+21,How is TF-IDF used to rank documents?,IR QA,15_information_retrieval,tf-idf|cosine
+22,What does a dialogue manager do?,IR QA,17_chatbots_and_dialogue_systems,dialogue|conversation
+23,How can overfitting be reduced?,IR QA,12_overfitting_and_underfitting,regulariz|dropout|more data
+24,What is reinforcement learning about rewards?,IR QA,11_reinforcement_learning,reward|agent|environment
+25,What is the weather today?,Fallback,,couldn't find
+26,Who won the cricket world cup?,Fallback,,couldn't find
+27,Who invented Java?,Fallback,,couldn't find
+28,Book a flight to Delhi,Fallback,,couldn't find

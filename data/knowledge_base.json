@@ -1,0 +1,478 @@
+{
+  "description": "Structured knowledge base for the QA chatbot",
+  "entries": [
+    {
+      "id": 1,
+      "category": "AI",
+      "question": "What is artificial intelligence?",
+      "answer": "Artificial intelligence is the ability of machines to perform tasks that normally require human intelligence, such as learning, reasoning and decision making.",
+      "aliases": [
+        "define AI"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "AI",
+      "question": "Who coined the term artificial intelligence?",
+      "answer": "John McCarthy coined the term artificial intelligence in 1955 and it was adopted at the Dartmouth Conference in 1956.",
+      "aliases": [
+        "who introduced the term AI"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "AI",
+      "question": "Who is known as the father of artificial intelligence?",
+      "answer": "John McCarthy is widely known as the father of artificial intelligence.",
+      "aliases": [
+        "who is the father of AI",
+        "father of AI"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "AI",
+      "question": "What is the Turing Test?",
+      "answer": "The Turing Test, proposed by Alan Turing in 1950, checks whether a machine can converse so well that a human cannot tell it apart from a person.",
+      "aliases": []
+    },
+    {
+      "id": 5,
+      "category": "AI",
+      "question": "What is narrow AI?",
+      "answer": "Narrow AI is an AI system designed to perform one specific task, such as face recognition or spam filtering.",
+      "aliases": [
+        "what is weak AI"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "AI",
+      "question": "What is general AI?",
+      "answer": "General AI (AGI) is a hypothetical system that can understand and learn any intellectual task a human can.",
+      "aliases": [
+        "what is AGI",
+        "what is strong AI"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "AI",
+      "question": "What is an intelligent agent?",
+      "answer": "An intelligent agent is an entity that perceives its environment through sensors and acts on it through actuators to achieve goals.",
+      "aliases": []
+    },
+    {
+      "id": 8,
+      "category": "AI",
+      "question": "What is the full form of NLP?",
+      "answer": "NLP stands for Natural Language Processing.",
+      "aliases": [
+        "expand NLP"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "AI",
+      "question": "What is the full form of CNN in deep learning?",
+      "answer": "CNN stands for Convolutional Neural Network.",
+      "aliases": [
+        "expand CNN"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "AI",
+      "question": "What is the full form of GPU?",
+      "answer": "GPU stands for Graphics Processing Unit.",
+      "aliases": [
+        "expand GPU"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "ML",
+      "question": "What is supervised learning?",
+      "answer": "Supervised learning is a machine learning approach where a model learns from labelled data to predict outputs for new inputs.",
+      "aliases": [
+        "define supervised learning"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "ML",
+      "question": "What is unsupervised learning?",
+      "answer": "Unsupervised learning finds hidden patterns or groups in data that has no labels.",
+      "aliases": [
+        "define unsupervised learning"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "ML",
+      "question": "What is reinforcement learning?",
+      "answer": "Reinforcement learning is a paradigm where an agent learns by taking actions in an environment and receiving rewards or penalties.",
+      "aliases": []
+    },
+    {
+      "id": 14,
+      "category": "ML",
+      "question": "What is classification in machine learning?",
+      "answer": "Classification is a supervised task where the model predicts a discrete category, such as spam or not spam.",
+      "aliases": []
+    },
+    {
+      "id": 15,
+      "category": "ML",
+      "question": "What is regression in machine learning?",
+      "answer": "Regression is a supervised task where the model predicts a continuous numeric value, such as a house price.",
+      "aliases": []
+    },
+    {
+      "id": 16,
+      "category": "ML",
+      "question": "What is clustering?",
+      "answer": "Clustering is an unsupervised technique that groups similar data points together, for example using K-means.",
+      "aliases": []
+    },
+    {
+      "id": 17,
+      "category": "ML",
+      "question": "What is overfitting?",
+      "answer": "Overfitting happens when a model memorises training data, including noise, and performs poorly on unseen data.",
+      "aliases": []
+    },
+    {
+      "id": 18,
+      "category": "ML",
+      "question": "What is a training dataset?",
+      "answer": "A training dataset is the portion of data used to teach a machine learning model.",
+      "aliases": []
+    },
+    {
+      "id": 19,
+      "category": "ML",
+      "question": "What is a confusion matrix?",
+      "answer": "A confusion matrix is a table showing true positives, false positives, true negatives and false negatives of a classifier.",
+      "aliases": []
+    },
+    {
+      "id": 20,
+      "category": "ML",
+      "question": "What is the F1 score?",
+      "answer": "The F1 score is the harmonic mean of precision and recall.",
+      "aliases": []
+    },
+    {
+      "id": 21,
+      "category": "ML",
+      "question": "Who invented the perceptron?",
+      "answer": "Frank Rosenblatt invented the perceptron in 1958.",
+      "aliases": []
+    },
+    {
+      "id": 22,
+      "category": "ML",
+      "question": "What is gradient descent?",
+      "answer": "Gradient descent is an optimisation algorithm that repeatedly adjusts model parameters in the direction that reduces the loss.",
+      "aliases": []
+    },
+    {
+      "id": 23,
+      "category": "Python",
+      "question": "Who invented Python?",
+      "answer": "Python was created by Guido van Rossum.",
+      "aliases": [
+        "who created Python",
+        "who developed Python",
+        "who is the creator of Python"
+      ]
+    },
+    {
+      "id": 24,
+      "category": "Python",
+      "question": "When was Python first released?",
+      "answer": "Python was first released in 1991.",
+      "aliases": [
+        "what year was Python released"
+      ]
+    },
+    {
+      "id": 25,
+      "category": "Python",
+      "question": "Which library is used for numerical computing in Python?",
+      "answer": "NumPy is the main library for numerical computing in Python.",
+      "aliases": []
+    },
+    {
+      "id": 26,
+      "category": "Python",
+      "question": "Which library is used for data analysis in Python?",
+      "answer": "pandas is the most widely used library for data analysis in Python.",
+      "aliases": []
+    },
+    {
+      "id": 27,
+      "category": "Python",
+      "question": "Which library is used for plotting in Python?",
+      "answer": "Matplotlib is the standard library for plotting graphs in Python.",
+      "aliases": []
+    },
+    {
+      "id": 28,
+      "category": "Python",
+      "question": "Which Python library is used for machine learning?",
+      "answer": "scikit-learn is the most popular Python library for classical machine learning.",
+      "aliases": []
+    },
+    {
+      "id": 29,
+      "category": "Python",
+      "question": "Which frameworks are used for deep learning in Python?",
+      "answer": "TensorFlow and PyTorch are the two major deep learning frameworks in Python.",
+      "aliases": []
+    },
+    {
+      "id": 30,
+      "category": "Python",
+      "question": "What is a list in Python?",
+      "answer": "A list is an ordered, mutable collection of items written inside square brackets.",
+      "aliases": []
+    },
+    {
+      "id": 31,
+      "category": "Python",
+      "question": "What is a dictionary in Python?",
+      "answer": "A dictionary is a collection of key-value pairs written inside curly braces.",
+      "aliases": []
+    },
+    {
+      "id": 32,
+      "category": "Python",
+      "question": "What is PEP 8?",
+      "answer": "PEP 8 is the official style guide for writing readable Python code.",
+      "aliases": []
+    },
+    {
+      "id": 33,
+      "category": "Karnataka",
+      "question": "What is the capital of Karnataka?",
+      "answer": "Bengaluru (Bangalore) is the capital of Karnataka.",
+      "aliases": [
+        "capital of Karnataka"
+      ]
+    },
+    {
+      "id": 34,
+      "category": "Karnataka",
+      "question": "What is the official language of Karnataka?",
+      "answer": "Kannada is the official language of Karnataka.",
+      "aliases": [
+        "which language is spoken in Karnataka"
+      ]
+    },
+    {
+      "id": 35,
+      "category": "Karnataka",
+      "question": "When was Karnataka formed?",
+      "answer": "Karnataka was formed on 1 November 1956, and was known as Mysore State until 1973.",
+      "aliases": [
+        "when was Karnataka state formed"
+      ]
+    },
+    {
+      "id": 36,
+      "category": "Karnataka",
+      "question": "Which is the largest city in Karnataka?",
+      "answer": "Bengaluru is the largest city in Karnataka.",
+      "aliases": []
+    },
+    {
+      "id": 37,
+      "category": "Karnataka",
+      "question": "Which river is the longest in Karnataka?",
+      "answer": "The Krishna river is the longest river flowing through Karnataka, while the Kaveri is its most important river for the south.",
+      "aliases": []
+    },
+    {
+      "id": 38,
+      "category": "Karnataka",
+      "question": "Which city is called the Silicon Valley of India?",
+      "answer": "Bengaluru is called the Silicon Valley of India because it is home to many IT and technology companies.",
+      "aliases": [
+        "why is Bengaluru called Silicon Valley of India",
+        "Silicon Valley of India"
+      ]
+    },
+    {
+      "id": 39,
+      "category": "Karnataka",
+      "question": "Which is the highest peak in Karnataka?",
+      "answer": "Mullayanagiri in Chikkamagaluru district is the highest peak in Karnataka.",
+      "aliases": []
+    },
+    {
+      "id": 40,
+      "category": "Karnataka",
+      "question": "Which is the famous waterfall in Karnataka?",
+      "answer": "Jog Falls in Shivamogga district is the most famous waterfall in Karnataka.",
+      "aliases": []
+    },
+    {
+      "id": 41,
+      "category": "Karnataka",
+      "question": "What is the state animal of Karnataka?",
+      "answer": "The Indian elephant is the state animal of Karnataka.",
+      "aliases": []
+    },
+    {
+      "id": 42,
+      "category": "Karnataka",
+      "question": "Which university in Bengaluru is affiliated with many engineering colleges?",
+      "answer": "Visvesvaraya Technological University (VTU), headquartered in Belagavi, is affiliated with most engineering colleges in Karnataka.",
+      "aliases": [
+        "what is VTU"
+      ]
+    },
+    {
+      "id": 43,
+      "category": "Computer Science",
+      "question": "Who is known as the father of computer science?",
+      "answer": "Alan Turing is widely regarded as the father of theoretical computer science.",
+      "aliases": []
+    },
+    {
+      "id": 44,
+      "category": "Computer Science",
+      "question": "What is an algorithm?",
+      "answer": "An algorithm is a finite, step-by-step procedure for solving a problem.",
+      "aliases": []
+    },
+    {
+      "id": 45,
+      "category": "Computer Science",
+      "question": "What is a data structure?",
+      "answer": "A data structure is a way of organising and storing data so that it can be used efficiently.",
+      "aliases": []
+    },
+    {
+      "id": 46,
+      "category": "Computer Science",
+      "question": "What is the full form of CPU?",
+      "answer": "CPU stands for Central Processing Unit.",
+      "aliases": []
+    },
+    {
+      "id": 47,
+      "category": "Computer Science",
+      "question": "What is the full form of RAM?",
+      "answer": "RAM stands for Random Access Memory.",
+      "aliases": []
+    },
+    {
+      "id": 48,
+      "category": "Computer Science",
+      "question": "What is an operating system?",
+      "answer": "An operating system is system software that manages computer hardware and provides services to programs.",
+      "aliases": []
+    },
+    {
+      "id": 49,
+      "category": "Computer Science",
+      "question": "What is SQL?",
+      "answer": "SQL (Structured Query Language) is a language used to store, query and manage data in relational databases.",
+      "aliases": []
+    },
+    {
+      "id": 50,
+      "category": "Computer Science",
+      "question": "What is a database?",
+      "answer": "A database is an organised collection of data that can be easily accessed, managed and updated.",
+      "aliases": []
+    },
+    {
+      "id": 51,
+      "category": "Computer Science",
+      "question": "What is the time complexity of binary search?",
+      "answer": "Binary search has a time complexity of O(log n).",
+      "aliases": []
+    },
+    {
+      "id": 52,
+      "category": "Computer Science",
+      "question": "What is the full form of HTML?",
+      "answer": "HTML stands for HyperText Markup Language.",
+      "aliases": []
+    },
+    {
+      "id": 53,
+      "category": "General Education",
+      "question": "What is the full form of BE?",
+      "answer": "BE stands for Bachelor of Engineering.",
+      "aliases": []
+    },
+    {
+      "id": 54,
+      "category": "General Education",
+      "question": "What is the full form of AICTE?",
+      "answer": "AICTE stands for All India Council for Technical Education.",
+      "aliases": []
+    },
+    {
+      "id": 55,
+      "category": "General Education",
+      "question": "What is the full form of GATE?",
+      "answer": "GATE stands for Graduate Aptitude Test in Engineering.",
+      "aliases": []
+    },
+    {
+      "id": 56,
+      "category": "General Education",
+      "question": "What is the full form of IEEE?",
+      "answer": "IEEE stands for Institute of Electrical and Electronics Engineers.",
+      "aliases": []
+    },
+    {
+      "id": 57,
+      "category": "General Education",
+      "question": "What is the full form of ISRO?",
+      "answer": "ISRO stands for Indian Space Research Organisation, headquartered in Bengaluru.",
+      "aliases": []
+    },
+    {
+      "id": 58,
+      "category": "General Education",
+      "question": "What is the full form of VTU?",
+      "answer": "VTU stands for Visvesvaraya Technological University.",
+      "aliases": []
+    },
+    {
+      "id": 59,
+      "category": "General Education",
+      "question": "What is a mini project?",
+      "answer": "A mini project is a small academic project that lets students apply classroom concepts to build a working prototype.",
+      "aliases": []
+    },
+    {
+      "id": 60,
+      "category": "General Education",
+      "question": "What is a viva?",
+      "answer": "A viva (viva voce) is an oral examination where students answer questions about their work.",
+      "aliases": []
+    },
+    {
+      "id": 61,
+      "category": "General Education",
+      "question": "What is plagiarism?",
+      "answer": "Plagiarism is presenting someone else's work or ideas as your own without giving credit.",
+      "aliases": []
+    },
+    {
+      "id": 62,
+      "category": "General Education",
+      "question": "What is GitHub?",
+      "answer": "GitHub is a web platform for hosting code and collaborating using the Git version control system.",
+      "aliases": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+Word embeddings represent words as dense numerical vectors so that words with similar meanings lie close together in vector space. Word2Vec and GloVe are well-known embedding methods.
+
+Transformers are neural architectures based on the self-attention mechanism, introduced in 2017 in the paper Attention Is All You Need. Unlike recurrent networks, transformers process all words in parallel, which makes training faster and captures long-range dependencies better.

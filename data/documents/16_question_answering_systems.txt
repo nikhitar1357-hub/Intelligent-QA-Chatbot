@@ -1,0 +1,3 @@
+A question answering (QA) system automatically answers questions posed in natural language. IR-based QA retrieves relevant passages from a text collection and then extracts the answer from them. Knowledge-based QA converts the question into a query over a structured database or knowledge graph.
+
+Modern QA systems often combine both approaches. Factoid questions ask for short facts such as names, dates or places, while non-factoid questions need longer explanations.

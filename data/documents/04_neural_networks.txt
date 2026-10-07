@@ -1,0 +1,3 @@
+An artificial neural network is a computing model inspired by the structure of the human brain. It consists of layers of connected nodes called neurons. Each connection has a weight, and each neuron applies an activation function such as ReLU or sigmoid to the weighted sum of its inputs.
+
+Neural networks are trained using the backpropagation algorithm, which computes the error at the output and propagates it backwards to update the weights using gradient descent. A typical network has an input layer, one or more hidden layers and an output layer.

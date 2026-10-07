@@ -1,0 +1,3 @@
+Reinforcement learning is a machine learning paradigm in which an agent learns to make decisions by interacting with an environment. The agent takes actions, receives rewards or penalties, and tries to maximise its total cumulative reward over time.
+
+Key concepts include the agent, environment, state, action, reward and policy. Reinforcement learning has been used to train game-playing systems such as AlphaGo, and it is applied in robotics and autonomous control.

@@ -1,0 +1,29 @@
+id,question,expected_mode,predicted_mode,mode_correct,answer_correct,confidence,time_ms,ir_top1,ir_top3,answer
+1,Hello there,Dialogue,Dialogue,True,True,1.0,0.6023139999911109,,,Hi there! How can I help you today?
+2,Good morning,Dialogue,Dialogue,True,True,1.0,0.015996999991330085,,,Hey! Ready to answer your questions about AI and ML.
+3,How are you?,Dialogue,Dialogue,True,True,1.0,0.008976000003713125,,,"I'm doing great, thank you for asking! How can I help you?"
+4,Thank you so much,Dialogue,Dialogue,True,True,1.0,0.00695299999620147,,,You're welcome! Feel free to ask more questions.
+5,Bye,Dialogue,Dialogue,True,True,1.0,0.005823000009286261,,,Goodbye! Have a great day 👋
+6,Who invented Python?,Knowledge QA,Knowledge QA,True,True,1.0,3.882739000005131,,,Python was created by Guido van Rossum.
+7,What is the capital of Karnataka?,Knowledge QA,Knowledge QA,True,True,1.0,3.441946000009466,,,Bengaluru (Bangalore) is the capital of Karnataka.
+8,Which language is spoken in Karnataka?,Knowledge QA,Knowledge QA,True,True,0.9999999999999998,3.9238909999994576,,,Kannada is the official language of Karnataka.
+9,Who is the father of AI?,Knowledge QA,Knowledge QA,True,True,1.0,2.6195230000212177,,,John McCarthy is widely known as the father of artificial intelligence.
+10,What is the full form of GATE?,Knowledge QA,Knowledge QA,True,True,1.0,3.2303499999954965,,,GATE stands for Graduate Aptitude Test in Engineering.
+11,Which library is used for plotting?,Knowledge QA,Knowledge QA,True,True,0.8544494941391411,3.748213999983818,,,Matplotlib is the standard library for plotting graphs in Python.
+12,What is overfitting?,Knowledge QA,Knowledge QA,True,True,1.0,2.739329999997153,,,"Overfitting happens when a model memorises training data, including noise, and performs poorly on unseen data."
+13,What is the time complexity of binary search?,Knowledge QA,Knowledge QA,True,True,1.0000000000000002,4.221392000005153,,,Binary search has a time complexity of O(log n).
+14,What is the highest peak in Karnataka?,Knowledge QA,Knowledge QA,True,True,1.0,3.6572760000126436,,,Mullayanagiri in Chikkamagaluru district is the highest peak in Karnataka.
+15,What is machine learning?,IR QA,IR QA,True,True,0.35956933482726605,5.4540950000046,True,True,Machine learning is a subfield of artificial intelligence in which computers learn patterns from data instead of being explicitly programmed with rules.
+16,What is a neural network?,IR QA,IR QA,True,True,0.2537286855834745,6.869963000013968,True,True,An artificial neural network is a computing model inspired by the structure of the human brain.
+17,What does NLP stand for and what tasks does it cover?,IR QA,IR QA,True,True,0.2990354409429341,5.333573999990904,True,True,"Natural Language Processing (NLP) is the area of AI that enables computers to understand, interpret and generate human language."
+18,What are convolutional networks used for in vision?,IR QA,IR QA,True,True,0.2335275060167848,6.944298999997045,True,True,Convolutional Neural Networks (CNNs) are the most widely used models in computer vision.
+19,What is deep learning?,IR QA,IR QA,True,True,0.38989555057588837,5.8252020000111315,True,True,Deep learning is a subset of machine learning that uses artificial neural networks with many hidden layers to learn hierarchical representations of data.
+20,What is a random forest?,IR QA,IR QA,True,True,0.3340748987244827,5.899236999994173,True,True,A random forest is an ensemble method that builds many decision trees on random subsets of data and features and combines their votes.
+21,How is TF-IDF used to rank documents?,IR QA,IR QA,True,True,0.3774820240068729,5.94629699997995,True,True,"A classic IR technique is TF-IDF, which weighs a word by how often it appears in a document (term frequency) and how rare it is across all documents (inverse document frequency)."
+22,What does a dialogue manager do?,IR QA,IR QA,True,True,0.3260325208658816,4.726652000016429,True,True,A dialogue manager is the component that controls the flow of conversation.
+23,How can overfitting be reduced?,IR QA,IR QA,True,True,0.2576309777889036,4.783578000001398,True,True,"Overfitting can be reduced by collecting more data, using regularization, applying dropout, using cross-validation and stopping training early."
+24,What is reinforcement learning about rewards?,IR QA,IR QA,True,True,0.4442950774551722,5.84977899998762,True,True,Reinforcement learning is a machine learning paradigm in which an agent learns to make decisions by interacting with an environment.
+25,What is the weather today?,Fallback,Fallback,True,True,0.0,3.274411000006694,,,I couldn't find the answer in my knowledge base. Please try asking differently.
+26,Who won the cricket world cup?,Fallback,Fallback,True,True,0.0,4.252512999983082,,,I couldn't find the answer in my knowledge base. Please try asking differently.
+27,Who invented Java?,Fallback,Fallback,True,True,0.0,3.706117000007225,,,I couldn't find the answer in my knowledge base. Please try asking differently.
+28,Book a flight to Delhi,Fallback,Fallback,True,True,0.0,4.053472000009606,,,I couldn't find the answer in my knowledge base. Please try asking differently.

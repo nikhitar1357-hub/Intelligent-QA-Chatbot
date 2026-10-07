@@ -1,0 +1,3 @@
+Machine learning is a subfield of artificial intelligence in which computers learn patterns from data instead of being explicitly programmed with rules. A machine learning algorithm is trained on examples, builds a mathematical model, and then uses that model to make predictions on new, unseen data.
+
+The three main paradigms of machine learning are supervised learning, unsupervised learning and reinforcement learning. Machine learning is used in spam filtering, recommendation systems, fraud detection, medical diagnosis and speech recognition.

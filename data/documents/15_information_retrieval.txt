@@ -1,0 +1,3 @@
+Information retrieval (IR) is the process of finding documents or passages that are relevant to a user's query from a large collection. Search engines are the best-known example of IR systems.
+
+A classic IR technique is TF-IDF, which weighs a word by how often it appears in a document (term frequency) and how rare it is across all documents (inverse document frequency). Documents are then ranked by their cosine similarity to the query vector.

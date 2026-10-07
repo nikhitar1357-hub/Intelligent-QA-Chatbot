@@ -1,0 +1,3 @@
+Natural Language Processing (NLP) is the area of AI that enables computers to understand, interpret and generate human language. Common NLP tasks include tokenization, part-of-speech tagging, named entity recognition, sentiment analysis, machine translation, text summarization and question answering.
+
+Modern NLP relies on the Transformer architecture, which uses self-attention to model relationships between words. Pre-trained models such as BERT and GPT are fine-tuned for specific tasks and have greatly improved language understanding.

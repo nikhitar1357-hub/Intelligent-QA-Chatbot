@@ -1,0 +1,3 @@
+A knowledge graph stores facts as triples of subject, relation and object, for example Python, created by, Guido van Rossum. Structured knowledge such as this can be queried precisely, unlike free text.
+
+Relational databases such as SQLite store data in tables of rows and columns and are queried with SQL. Structured sources give exact answers but require manual curation, while unstructured text is abundant but harder to search accurately.

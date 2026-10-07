@@ -1,0 +1,3 @@
+A chatbot is a software program that conducts a conversation with users in natural language. Rule-based chatbots match user input against predefined patterns, while machine-learning chatbots learn responses from data.
+
+A dialogue manager is the component that controls the flow of conversation. It tracks the dialogue state, remembers earlier turns for context, decides the next system action and provides fallback responses when the system does not understand the user.
